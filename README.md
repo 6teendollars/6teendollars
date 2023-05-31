@@ -1,6 +1,6 @@
 ![Header%](https://i.pinimg.com/originals/ab/1a/fe/ab1afebb2fe63ede8210d53253269e52.gif)  
 
-<h1 align="center">Hi 👋, I'm Oleksii Hrabovskyi</h1>
+<h1 align="center">Hi 👋, I'm Aleks </h1>
 <h3 align="center">A Full-Stack developer from Ukraine</h3>
 
 - 🌱 I’m currently learning **React, Node..**
