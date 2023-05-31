@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aleks-hrabovskyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleks-hrabovskyi" height="30" width="40" /></a>
-<a href="https://instagram.com/grabovskyi.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grabovskyi.co" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aleks grabovski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aleks grabovski" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aleks-hrabovskyi-9a0427267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleks-hrabovskyi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/grabovski.co/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grabovskyi.co" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCQw0W2ePUpCXwOtqUZb_jXQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aleks grabovski" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
