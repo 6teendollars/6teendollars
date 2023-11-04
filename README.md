@@ -6,7 +6,8 @@
 
 - 📫 How to reach me **hrabovskyiswork@gmail.com**
 
+- Linkedin https://www.linkedin.com/in/aleks-hrabovskyi/
 
-  <img src="https://i.pinimg.com/564x/4a/db/d0/4adbd0e50629b5c0b8acb8b6267ed47a.jpg" width="500"/>
+
 
 
